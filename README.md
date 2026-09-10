@@ -19,6 +19,14 @@ PhishGuard AI provides a web dashboard where users can:
 - Review detected security indicators
 - Inspect extracted URL security features
 
+### Legitimate URL
+
+![Legitimate URL analysis](screenshots/legitimate-scan.png)
+
+### Phishing URL
+
+![Phishing URL analysis](screenshots/phishing-scan.png)
+
 ---
 
 ## 🖥️ Application
