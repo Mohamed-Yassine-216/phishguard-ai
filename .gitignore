@@ -9,3 +9,7 @@ node_modules/
 frontend/dist/
 .env
 .DS_Store
+# Dataset files
+backend/data/raw/*.csv
+backend/data/processed/*.csv
+backend/data/urls.csv
