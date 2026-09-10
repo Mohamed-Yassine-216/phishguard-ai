@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+backend/ml/*.joblib
+backend/ml/metrics.json
+node_modules/
+frontend/dist/
+.env
+.DS_Store
